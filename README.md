@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3000&pause=1200&color=67D9F0&center=true&vCenter=true&repeat=true&width=500&height=60&lines=A%20B%20I%20N%20%20F%20R%20A%20N%20C%20I%20S" alt="ABIN FRANCIS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3500&pause=1500&color=67D9F0&center=true&vCenter=true&repeat=true&width=550&height=65&lines=ABIN+FRANCIS;PYTHON+FULL+STACK+DEVELOPER" alt="Abin Francis - Animated Header" />
 </p>
 
 <p align="center">
-  <sub>MCA STUDENT · PYTHON FULL STACK DEVELOPER</sub>
+  <sub>MCA STUDENT &nbsp;·&nbsp; SOFTWARE DEVELOPER</sub>
 </p>
 
 <p align="center">
@@ -54,15 +54,19 @@ I'm passionate about software development and building practical web application
 
 A smart educational platform designed to help college students learn more effectively using AI.
 
+**Key Features**
+
 - 📄 AI-powered PDF summarization
 - ▶️ YouTube video summarization
 - 💬 Contextual AI chatbot using RAG
 - 🧠 Visual mind-map generation
-- 📝 AI-based MCQ generation
+- 📝 AI-based MCQ generation *(in development)*
 
 **Technologies:** Python · Django · HTML · CSS · JavaScript · SQLite · AI
 
-[Explore Noteforge →](https://github.com/abinfrancis-03/noteforge-mca-project)
+<p>
+  <a href="https://github.com/abinfrancis-03/noteforge-mca-project">Explore Noteforge →</a>
+</p>
 
 ---
 
@@ -77,5 +81,5 @@ A smart educational platform designed to help college students learn more effect
 ---
 
 <p align="center">
-  <sub>Always learning. Always building.</sub>
+  <sub><i>Always learning. Always building.</i></sub>
 </p>
