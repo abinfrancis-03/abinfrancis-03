@@ -1,6 +1,15 @@
-# Abin Francis
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=3500&pause=1500&color=67D9F0&center=true&vCenter=true&repeat=true&width=550&height=65&lines=ABIN+FRANCIS;PYTHON+FULL+STACK+DEVELOPER" alt="Abin Francis - Animated Header" />
+</p>
 
-### MCA Student · Python Full Stack Developer
+<p align="center">
+  <sub>MCA STUDENT &nbsp;·&nbsp; SOFTWARE DEVELOPER</sub>
+</p>
+
+<p align="center">
+  Building meaningful things with code.
+</p>
+
 
 I'm passionate about software development and building practical web applications. I enjoy exploring new technologies, solving problems, and turning ideas into useful software solutions.
 
