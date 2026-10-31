@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3500&pause=1500&color=67D9F0&center=true&vCenter=true&repeat=true&width=550&height=60&lines=A+B+I+N+ +F+R+A+N+C+I+S;P+Y+T+H+O+N+ +F+U+L+L+S+T+A+C+K+ +D+E+V+E+L+O+P+E+R" alt="Abin Francis - Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3000&pause=1200&color=67D9F0&center=true&vCenter=true&repeat=true&width=500&height=60&lines=A%20B%20I%20N%20%20F%20R%20A%20N%20C%20I%20S" alt="ABIN FRANCIS" />
 </p>
 
 <p align="center">
-  <sub>MCA STUDENT &nbsp;·&nbsp; SOFTWARE DEVELOPER</sub>
+  <sub>MCA STUDENT · PYTHON FULL STACK DEVELOPER</sub>
 </p>
 
 <p align="center">
