@@ -1,42 +1,35 @@
 # Abin Francis
 
-### MCA Student · Python Full Stack Developer
+### MCA Student | Python Full Stack Developer
 
-Passionate about building web applications and exploring modern technologies. I enjoy turning ideas into practical software solutions and continuously improving my development skills.
+I'm passionate about software development and building practical web applications. I enjoy exploring new technologies, solving problems, and turning ideas into useful software solutions.
 
-- 🎓 Currently pursuing Master of Computer Applications (MCA)
-- 💻 Python Full Stack Development
-- 🤖 Exploring AI-powered applications and RAG
-- 🚀 Building **Noteforge**, an AI-powered educational platform
+- 🎓 Currently pursuing **Master of Computer Applications (MCA)**
+- 💻 Interested in **Python Full Stack Development**
+- 🤖 Exploring **Artificial Intelligence and RAG**
+- 🚀 Building **Noteforge – AI-Powered Educational Platform**
 
 ---
 
 ## Tech Stack
 
-### Programming & Backend
+**Languages**
 
-| Technology | Skill |
-|:---:|:---|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Backend Development |
-| ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) | Python Web Framework |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Web Interactivity |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" height="38" alt="Python, JavaScript, HTML and CSS" />
+</p>
 
-### Frontend
+**Frameworks & Libraries**
 
-| Technology | Skill |
-|:---:|:---|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Web Structure |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Web Styling |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | Responsive UI |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,bootstrap" height="38" alt="Django and Bootstrap" />
+</p>
 
-### Database & Development Tools
+**Database & Tools**
 
-| Technology | Skill |
-|:---:|:---|
-| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | Database |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Version Control |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Code Hosting |
-| ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) | Code Editor |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode" height="38" alt="SQLite, Git, GitHub and VS Code" />
+</p>
 
 ---
 
@@ -44,31 +37,44 @@ Passionate about building web applications and exploring modern technologies. I 
 
 ### Noteforge – AI-Powered Educational Platform
 
-A smart educational platform designed to help college students learn from study materials using AI.
+A smart educational platform designed to help college students learn more effectively using AI.
 
-- AI-powered PDF summarization
-- YouTube video summarization
-- Contextual AI chatbot using RAG
-- Visual mind-map generation
-- AI-based MCQ generation
+**Key Features**
 
-[Explore Noteforge →](https://github.com/abinfrancis-03/noteforge-mca-project)
+- 📄 AI-powered PDF summarization
+- ▶️ YouTube video summarization
+- 💬 Contextual AI chatbot using RAG
+- 🧠 Visual mind-map generation
+- 📝 AI-based MCQ test generation (in development)
+
+**Technologies:** Python · Django · HTML · CSS · JavaScript · SQLite · AI
+
+🔗 **[Explore Noteforge Repository](https://github.com/abinfrancis-03/noteforge-mca-project)**
 
 ---
 
-## GitHub Overview
+## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinfrancis-03&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abinfrancis-03&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abinfrancis-03&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" height="160" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinfrancis-03&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" height="160" alt="Most Used Languages" />
+</p>
 
 ---
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinfrancis-abi1921)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abinfrancis-03)
+<p align="left">
+  <a href="https://www.linkedin.com/in/abinfrancis-abi1921">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/abinfrancis-03">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-*Building. Learning. Improving.*
+<p align="center">
+  <i>Building. Learning. Improving.</i>
+</p>
