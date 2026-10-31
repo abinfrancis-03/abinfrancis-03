@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=3500&pause=1500&color=67D9F0&center=true&vCenter=true&repeat=true&width=550&height=65&lines=ABIN+FRANCIS;PYTHON+FULL+STACK+DEVELOPER" alt="Abin Francis - Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3500&pause=1500&color=B69CFF&center=true&vCenter=true&repeat=true&width=550&height=65&lines=ABIN+FRANCIS;PYTHON+FULL+STACK+DEVELOPER" alt="Abin Francis - Animated Header" />
 </p>
 
 <p align="center">
@@ -7,16 +7,20 @@
 </p>
 
 <p align="center">
-  Building meaningful things with code.
+  <i>Building meaningful things with code.</i>
 </p>
 
+---
+
+## About Me
 
 I'm passionate about software development and building practical web applications. I enjoy exploring new technologies, solving problems, and turning ideas into useful software solutions.
 
-- 🎓 Currently pursuing Master of Computer Applications (MCA)
-- 💻 Interested in Python Full Stack Development
-- 🤖 Exploring Artificial Intelligence and RAG
-- 🚀 Building Noteforge – AI-Powered Educational Platform
+- 🎓 Currently pursuing **Master of Computer Applications (MCA)**
+- 💻 Interested in **Python Full Stack Development**
+- 🤖 Exploring **Artificial Intelligence and RAG**
+- 🚀 Building AI-powered applications
+- 🌱 Always learning and improving my skills
 
 ---
 
@@ -25,19 +29,19 @@ I'm passionate about software development and building practical web application
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" height="36" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" height="36" alt="Python, JavaScript, HTML and CSS" />
 </p>
 
-**Frameworks**
+**Frameworks & Libraries**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,bootstrap" height="36" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=django,bootstrap" height="36" alt="Django and Bootstrap" />
 </p>
 
 **Database & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode" height="36" alt="Database and development tools" />
+  <img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode" height="36" alt="SQLite, Git, GitHub and VS Code" />
 </p>
 
 ---
@@ -50,30 +54,32 @@ I'm passionate about software development and building practical web application
 
 A smart educational platform designed to help college students learn more effectively using AI.
 
+**Key Features**
+
 - 📄 AI-powered PDF summarization
 - ▶️ YouTube video summarization
 - 💬 Contextual AI chatbot using RAG
 - 🧠 Visual mind-map generation
-- 📝 AI-based MCQ test generation
+- 📝 AI-based MCQ generation *(in development)*
 
-**Built with:** Python · Django · HTML · CSS · JavaScript · SQLite · AI
+**Technologies:** Python · Django · HTML · CSS · JavaScript · SQLite · AI
 
-[View Project →](https://github.com/abinfrancis-03/noteforge-mca-project)
+<p>
+  <a href="https://github.com/abinfrancis-03/noteforge-mca-project">Explore Noteforge →</a>
+</p>
 
 ---
 
-## Let's Connect
+## Connect With Me
 
-I'm always interested in connecting with developers, learning new technologies, and exploring opportunities.
-
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/abinfrancis-abi1921">LinkedIn ↗</a>
-  &nbsp; · &nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/abinfrancis-03">GitHub ↗</a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Building meaningful things with code.</i>
+  <sub><i>Always learning. Always building.</i></sub>
 </p>
